@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @arshadahmed99
-- 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ... Data Analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...mdarshad.ahmed06@gmail.com
-
-<!---
-arshadahmed99/arshadahmed99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm Arshad — Marketing & Data Analytics Consultant
+- 📊 I help e-commerce and SaaS brands turn messy data into revenue decisions
+- 🛠️ My stack: Power BI · Looker Studio · Metabase · GA4 · BigQuery · SQL · GTM (Server-Side) · Meta CAPI · n8n
+- 🔍 Currently building: AI automation workflows with n8n + analytics dashboards for scaling brands
+- 🤝 Open to collaborating on: marketing analytics projects, dashboard design, and conversion tracking setups
+- 📬 Reach me at: mdarshad.ahmed06@gmail.com
+- 🌐 Services: [arshadadvisory.com](https://arshadadvisory.com)
